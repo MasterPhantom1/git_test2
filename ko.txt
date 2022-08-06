@@ -1,2 +1,3 @@
 I am using this in order to do something new and something cool
 the skills I will be using are git and github
+Now I will try out git commit -m
